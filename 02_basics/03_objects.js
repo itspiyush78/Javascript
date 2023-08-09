@@ -27,4 +27,10 @@ Object.freeze(JsUser)
 JsUser.email = "piyush@chat.com"
 console.log(JsUser);
 
-JsUser.greeting = function()
+JsUser.greeting = function(){
+   console.log('Hello JS user, ${this.name}');
+}   
+   
+    console.log(JsUser.greeting);
+    console.log(JsUser.greetingTwo());
+
