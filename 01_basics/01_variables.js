@@ -3,7 +3,7 @@ let accountEmail = "piyush@google.com"
 var accountPassword = "12345"
 accountCity = "Azamgarh"
 
-// accountId = 2     // not allowed  
+// accountId = 2    // not allowed  
 
 accountEmail = "ph@ph.com"
 accountPassword = "21212121"
