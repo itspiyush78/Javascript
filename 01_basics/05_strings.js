@@ -16,11 +16,11 @@ console.log(gameName.toUpperCase());
 console.log(gameName.charAt(2));
 console.log(gameName.indexOf('t'));
 
-const newString = gameName.substring(0,4)
+const newString = gameName.substring(0,4);
 console.log(newString);
 
-const anotherString = gameName.slice(-8, 4)
-console.log(anotherString)
+const anotherString = gameName.slice(-8, 4);
+console.log(anotherString);
 
 const newStringOne = "  hitesh  "
 console.log(newStringOne);
