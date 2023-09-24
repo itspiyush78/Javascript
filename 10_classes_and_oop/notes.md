@@ -14,7 +14,7 @@ Object litral
 - Constructor function 
 - Prototypes 
 - Classes
-- Instances (new, this  )
+- Instances (new, this  );
 
 
 ## 4 pillars
